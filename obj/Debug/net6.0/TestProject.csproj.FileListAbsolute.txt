@@ -1,0 +1,17 @@
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/TestProject
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/TestProject.dll
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/ref/TestProject.dll
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/TestProject.pdb
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.dll
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/ref/TestProject.dll
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.pdb
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
+/home/juliana/code/dotnet/TestProject/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/juliana/code/dotnet/TestProject/obj/Debug/net6.0/TestProject.csproj.CopyComplete

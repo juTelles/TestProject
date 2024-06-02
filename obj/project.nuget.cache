@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLVjPbUgcGk95B1zMqe9ZPkNXoKWYIMcJCE/DuNK1tj9Pt7YeXfsi6K7Yy0yROISWGBDkAdkKdpDf62124FrRQ==",
+  "success": true,
+  "projectFilePath": "/home/juliana/code/dotnet/TestProject/TestProject.csproj",
+  "expectedPackageFiles": [
+    "/home/juliana/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

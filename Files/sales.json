@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Product": "Papel",
+    "Price": 1.40
+  },
+  {
+    "Id": 1,
+    "Product": "Papel Azul",
+    "Price": 1.60
+  },
+  {
+    "Id": 1,
+    "Product": "Papel Roxo",
+    "Price": 1.80
+  }
+]
